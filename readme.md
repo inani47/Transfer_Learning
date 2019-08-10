@@ -18,6 +18,5 @@ The files of interest are for part 2 are:
 
 # Runnig the code:
 Download the dataset and paste it into \code. 
-Link to download dataset: https://www.kaggle.com/slothkong/
-10-monkey-species/home
+Link to download dataset: https://www.kaggle.com/slothkong/10-monkey-species/home
 
