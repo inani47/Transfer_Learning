@@ -17,7 +17,7 @@ The files of interest are for part 2 are:
 - matplotlib
 
 # Runnig the code:
-The datasets and helper function are in the correct folders. So just run the files mentioned in the overview section as is.
-      
-Note: Make sure all the dependencies are met.
+Download the dataset and paste it into \code. 
+Link to download dataset: https://www.kaggle.com/slothkong/
+10-monkey-species/home
 
